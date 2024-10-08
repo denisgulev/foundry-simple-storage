@@ -1,3 +1,8 @@
+## Try it
+
+Interact with the contract on https://denisgulev.github.io/foundry-contracts-fe/
+
+
 ## Deploy to local chain
 
 * 1st make to sure to run "anvil" in a terminal
